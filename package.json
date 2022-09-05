@@ -1,0 +1,22 @@
+{
+  "name": "movieup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "bin": {
+    "movieup": "./bin/index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jamal Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "execa": "^6.1.0",
+    "megajs": "^1.0.8",
+    "nanospinner": "^1.1.0",
+    "node-fetch": "^3.2.10"
+  }
+}
